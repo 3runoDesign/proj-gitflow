@@ -3,3 +3,5 @@
 3. **`docs`**: Documentation only changes;
 4. **`feat`**: Um novo Feature;
 5. **`fix`**: Uma correção de bug;
+6. **`perf`**: Uma mudança de código que melhora o desempenho;
+7. **`refactor`**: Uma mudança de código que não corrige um bug nem adiciona um recurso;
