@@ -5,3 +5,5 @@
 5. **`fix`**: Uma correção de bug;
 6. **`perf`**: Uma mudança de código que melhora o desempenho;
 7. **`refactor`**: Uma mudança de código que não corrige um bug nem adiciona um recurso;
+8. **`style`**: Alterações que não afetam o significado do código (espaço em branco, formatação, ponto-e-vírgula ausente, etc);
+9. **`test`**: Adicionar testes ausentes ou corrigir testes existentes;
